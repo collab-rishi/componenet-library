@@ -1,3 +1,3 @@
-# componenet-library
+# Portofolio
 
-Created a component library which would make all my projects look good and consistent.
+A simple website to showcase my portofolio
