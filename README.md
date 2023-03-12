@@ -1,5 +1,5 @@
 # Portofolio
 
-A simple website to showcase my portofolio
+A simple [website](https://portofolio-rishi.netlify.app/) to showcase my portofolio
 
-([https://portofolio-rishi.netlify.app/])
+
